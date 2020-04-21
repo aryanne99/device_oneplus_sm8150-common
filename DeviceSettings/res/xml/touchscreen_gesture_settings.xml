@@ -17,9 +17,9 @@
     android:key="touchscreen_gesture_settings"
     android:title="@string/touchscreen_gesture_settings_title">
 
-    <com.potato.support.preference.SystemSettingSwitchPreference
+    <!-- <com.potato.support.preference.SystemSettingSwitchPreference
         android:key="touchscreen_gesture_haptic_feedback"
         android:title="@string/touchscreen_gestures_haptic_feedback_title"
         android:summary="@string/touchscreen_gestures_haptic_feedback_summary"
-        android:defaultValue="true" />
+        android:defaultValue="true" /> -->
 </PreferenceScreen>
